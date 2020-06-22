@@ -1,2 +1,2 @@
-# gopoli.github.io
+# gopoli
 Official GoPoli's Web Page
